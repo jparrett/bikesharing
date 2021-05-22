@@ -32,7 +32,7 @@ To conclude the research, the locations of the bike rentals was review.    The s
 
 <img src="images/TopEndingLocations.png" width="600"> [TopEndingLocations.png](images/TopEndingLocations.png)
 
-
+### Summary
 
 
 
