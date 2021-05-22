@@ -33,7 +33,16 @@ To conclude the research, the locations of the bike rentals was review.    The s
 <img src="images/TopEndingLocations.png" width="600"> [TopEndingLocations.png](images/TopEndingLocations.png)
 
 ### Summary
+As seen by the analysis above, Citibike is a well used resource by the residents and tourists of NYC.    The research shows a clear pattern of higher usage by male subscribers.    It also shows that these users are using them during the weekday in the morning and evening cluster hours.   
 
+Before this project can begin in Des Moines additional information specifically for Des Moines needs to be reviewed.   
+
+The following informational graphs will help to ensure a profitable endever:
+- The male to female ratio of residents is Des Moines.
+- The ratio of residents that work locally in NYC compared with those that work locally in Des Moines.   For example: are there a lot of commuters in Des Moines that would not utilize a biking resource.
+- Weather trends for both cities.    Biking can be dependent on the weather.   Is there any change in bike rentals during colder or hotter temperatures.    If there is a change, how does the climate in NYC compare to that of Des Moines.
+
+Overall, Citibike is a wonderful concept that can prove to be highly profitable.    To capitalize on this success, the next city needs to be careful choisen to ensure it meets the demographics and location requirements to be the most profitable.
 
 
 
