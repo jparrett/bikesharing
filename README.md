@@ -12,13 +12,24 @@ The first step is to view the trips by hour.    Looking at this information belo
 Narrowing down the research, looking now at the gender breakdown.   The first graph visualizes that there is no distinct difference between the hour of the day that different genders utilize the bikes.   It mirrors the first graph above.    What both graphs do show is that this is a large difference between the genders.   Males tend to rent more often than females by a significant amount.
 
 <img src="images/TripsperWeekdaybyGender.png" width="600"> [TripsperWeekdaybyGender.png](images/TripsperWeekdaybyGender.png)
+
+In addition to showing the gender gap, the below represents the subscriber versus customer.   Similar to gender, it can be noted that the majority of rentals come from subscribers.
+
 <img src="images/UserbyWeekdaybyGender.png" width="600"> [UserbyWeekdaybyGender.png](images/UserbyWeekdaybyGender.png)
 
 ## Checkout Times
-<img src="images/CheckoutTimesforUsers.png" width="600"> [CheckoutTimesforUsers.png](images/CheckoutTimesforUsers.png)<img src="images/CheckoutTimesbyGender.png" width="600"> [CheckoutTimesbyGender.png](images/CheckoutTimesbyGender.png)
+To further the analysis, the checkout times were reviewed.   Most of the bikes were checked out on average for less than twenty minutes.
+
+The second graph further displays that our male users are statistically higher than our female.   
+
+<img src="images/CheckoutTimesforUsers.png" width="600"> [CheckoutTimesforUsers.png](images/CheckoutTimesforUsers.png)
+<img src="images/CheckoutTimesbyGender.png" width="600"> [CheckoutTimesbyGender.png](images/CheckoutTimesbyGender.png)
 
 ## Popular Locations
+To conclude the research, the locations of the bike rentals was review.    The starting and ending location graphs below are similar.   Most of the rentals are clustered in one central location.    
+
 <img src="images/TopStartingLocations.png" width="600"> [TopStartingLocations.png](images/TopStartingLocations.png)
+
 <img src="images/TopEndingLocations.png" width="600"> [TopEndingLocations.png](images/TopEndingLocations.png)
 
 
