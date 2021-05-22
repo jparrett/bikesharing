@@ -8,7 +8,20 @@ Show the number of bike trips for all riders and genders for each hour of each d
 Show the number of bike trips for each type of user and gender for each day of the week.
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
-<img src="images/CheckoutTimesbyGender.png" width="600"> [CheckoutTimesbyGender.png](images/CheckoutTimesbyGender.png)
+## 
+<img src="images/TripsperWeekdaybyGender.png" width="600"> [TripsperWeekdaybyGender.png](images/TripsperWeekdaybyGender.png)
+<img src="images/TripsperWeekdayperHour.png" width="600"> [TripsperWeekdayperHour.png](images/TripsperWeekdayperHour.png)
+<img src="images/UserbyWeekdaybyGender.png" width="600"> [UserbyWeekdaybyGender.png](images/UserbyWeekdaybyGender.png)
+
+## Checkout Times
+<img src="images/CheckoutTimesforUsers.png" width="600"> [CheckoutTimesforUsers.png](images/CheckoutTimesforUsers.png)<img src="images/CheckoutTimesbyGender.png" width="600"> [CheckoutTimesbyGender.png](images/CheckoutTimesbyGender.png)
+
+## Popular Locations
+<img src="images/TopStartingLocations.png" width="600"> [TopStartingLocations.png](images/TopStartingLocations.png)
+<img src="images/TopEndingLocations.png" width="600"> [TopEndingLocations.png](images/TopEndingLocations.png)
+
+
+
 
 [link to dashboard](<div class='tableauPlaceholder' id='viz1621686046841' style='position: relative'><noscript><a href='#'><img alt='Citibike ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;Module14Challenge_16215468230980&#47;Citibike&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Module14Challenge_16215468230980&#47;Citibike' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;Module14Challenge_16215468230980&#47;Citibike&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1621686046841');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>)
 
