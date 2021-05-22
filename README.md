@@ -6,14 +6,14 @@ To view the full Tableau Story:
 [link to dashboard](https://public.tableau.com/views/Module14Challenge_16215468230980/Citibike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ## Overview
-The first step is to view the trips by hour.    Looking at this information below, it is clear that there are more popular times than others.    The morning popular times are 7am - 9am.   Even more popular is the evening start times between 5pm and 6pm.
+The first step is to view the trips by hour.    Looking at this information below, it is clear that there are more popular times than others.    The morning popular times are 7am - 9am.   Even more popular is the evening start times between 5pm and 6pm.   These clusters of time only appear during the weekdays.   The weekends tend to have a more spread out rental timeframe.
 <img src="images/TripsperWeekdayperHour.png" width="600"> [TripsperWeekdayperHour.png](images/TripsperWeekdayperHour.png)
 
 Narrowing down the research, looking now at the gender breakdown.   The first graph visualizes that there is no distinct difference between the hour of the day that different genders utilize the bikes.   It mirrors the first graph above.    What both graphs do show is that this is a large difference between the genders.   Males tend to rent more often than females by a significant amount.
 
 <img src="images/TripsperWeekdaybyGender.png" width="600"> [TripsperWeekdaybyGender.png](images/TripsperWeekdaybyGender.png)
 
-In addition to showing the gender gap, the below represents the subscriber versus customer.   Similar to gender, it can be noted that the majority of rentals come from subscribers.
+In addition to showing the gender gap, the below represents the subscriber versus customer.    It can be noted that the majority of rentals come from subscribers.
 
 <img src="images/UserbyWeekdaybyGender.png" width="600"> [UserbyWeekdaybyGender.png](images/UserbyWeekdaybyGender.png)
 
